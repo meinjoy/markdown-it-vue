@@ -1,4 +1,4 @@
-import 'highlight.js/styles/atom-one-light.css'
+import 'highlight.js/styles/monokai-sublime.min.css'
 import hljs from 'highlight.js/lib/core'
 import Htmlbars from 'highlight.js/lib/languages/htmlbars'
 import Handlebars from 'highlight.js/lib/languages/handlebars'
